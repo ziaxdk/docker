@@ -2,5 +2,5 @@
 `$ docker build -t ziaxdk/nodetest .`
 ### Run
 `$ docker run ziaxdk/nodetest`
-### Run
+### Result
 `its working...`
