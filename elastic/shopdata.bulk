@@ -1,0 +1,6 @@
+{ "index" : { "_index" : "shop", "_type" : "product", "_id" : "1" } }
+{ "name" : "value1" }
+{ "index" : { "_index" : "shop", "_type" : "product", "_id" : "2" } }
+{ "name" : "value2" }
+{ "index" : { "_index" : "shop", "_type" : "product", "_id" : "3" } }
+{ "name" : "value3" }
